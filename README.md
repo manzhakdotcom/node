@@ -1,4 +1,4 @@
-##Example
+## Example
 [AWS site example](http://18.195.37.133/)
-##Usage
+## Usage
 React Redux Express MongoDB AWS
